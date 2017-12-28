@@ -1,0 +1,22 @@
+$ mkdir learngit      创建一个空目录
+$ cd learnt 
+$ pwd
+
+$git init
+ls 
+ls -ah
+
+.git git版本库
+
+$ git add subject.txt
+$ git commit -m “wrote a subject file”
+
+$ git status
+$ git diff
+
+$ git log
+$ git log —pretty=oneline
+$ git reflog
+
+$ git reset —-hard HEAD^
+$ git reset —-hard 3828164(commit id)
